@@ -51,7 +51,7 @@ Sou estudante de ADS no CEUB. Tenho interesse na área de tecnologia e venho des
 
 ### Projeto 1 — Site e organização de empresa de pesca
 
-Criei um site e ajudei na organização da empresa, usando o que aprendi no curso para melhorar as vendas e o funcionamento do negócio.
+Projeto desenvolvido na faculdade. Criei um site e ajudei na organização da empresa, usando o que aprendi no curso para melhorar as vendas e o funcionamento do negócio.
 
 ---
 
@@ -63,7 +63,7 @@ Desenvolvi um site para a loja onde trabalho, com informações dos produtos e f
 
 ### Projeto 3 — Agente de Inteligência Artificial
 
-Criei um agente de IA para executar tarefas específicas, com o objetivo de automatizar algumas etapas e facilitar processos.
+Ainda estou desenvolvendo. A ideia é criar um agente de IA para executar tarefas específicas, automatizando algumas etapas e facilitando processos.
 
 ---
 
