@@ -22,9 +22,7 @@ Sou estudante de ADS no CEUB. Tenho interesse na área de tecnologia e venho des
 
 ### Formação Acadêmica
 
-| Curso | Instituição | Situação |
-|-------|-------------|----------|
-| Análise e Desenvolvimento de Sistemas | CEUB | Em andamento |
+- Análise e Desenvolvimento de Sistemas — CEUB (em andamento)
 
 ---
 
@@ -44,10 +42,8 @@ Sou estudante de ADS no CEUB. Tenho interesse na área de tecnologia e venho des
 
 ### Idiomas
 
-| Idioma | Nível |
-|--------|-------|
-| Português | Fluente |
-| Inglês | Básico |
+- Português — Fluente
+- Inglês — Básico
 
 ---
 
