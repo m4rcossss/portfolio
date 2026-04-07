@@ -4,15 +4,6 @@ Portfólio acadêmico de Marcos Sergio Figueiredo Filho
 
 ---
 
-## Sumário
-
-- [Perfil Pessoal](#perfil-pessoal)
-- [Currículo](#currículo)
-- [Projetos](#projetos)
-- [Habilidades](#habilidades)
-- [Recomendações](#recomendações)
-
----
 
 ## Perfil Pessoal
 
