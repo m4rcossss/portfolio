@@ -1,20 +1,20 @@
-# 📁 portfolio
+# portfólio
 
-> Portfólio acadêmico e profissional de Marcos Sergio Figueiredo Filho
-
----
-
-## 📌 Sumário
-
-- [Perfil Pessoal](#-perfil-pessoal)
-- [Currículo](#-currículo)
-- [Projetos Acadêmicos e Profissionais](#-projetos-acadêmicos-e-profissionais)
-- [Habilidades e Competências](#-habilidades-e-competências)
-- [Recomendações e Testemunhos](#-recomendações-e-testemunhos)
+Portfólio acadêmico de Marcos Sergio Figueiredo Filho
 
 ---
 
-## 👤 Perfil Pessoal
+## Sumário
+
+- [Perfil Pessoal](#perfil-pessoal)
+- [Currículo](#currículo)
+- [Projetos](#projetos)
+- [Habilidades](#habilidades)
+- [Recomendações](#recomendações)
+
+---
+
+## Perfil Pessoal
 
 **Nome:** Marcos Sergio Figueiredo Filho  
 **Curso:** Análise e Desenvolvimento de Sistemas  
@@ -23,13 +23,13 @@
 
 ### Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no CEUB, com interesse em aprender e desenvolver minhas habilidades na área de tecnologia. Busco adquirir conhecimento prático por meio de projetos acadêmicos e estudos, com o objetivo de crescer profissionalmente e me preparar para o mercado de trabalho.
+Sou estudante de ADS no CEUB. Tenho interesse na área de tecnologia e venho desenvolvendo minhas habilidades por meio dos projetos do curso e do trabalho. Gosto de aprender na prática e quero cada vez mais entender como a tecnologia pode ser usada no dia a dia.
 
 ---
 
-## 📄 Currículo
+## Currículo
 
-### 🎓 Formação Acadêmica
+### Formação Acadêmica
 
 | Curso | Instituição | Situação |
 |-------|-------------|----------|
@@ -37,21 +37,21 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no CEUB, com interesse e
 
 ---
 
-### 💼 Experiência Profissional
+### Experiência Profissional
 
 **Empresa:** Instrumental e Tal  
 **Área:** Vendas e atendimento ao cliente
 
-**Atividades realizadas:**
+**O que faço:**
 - Atendimento direto ao cliente na loja
-- Organização de produtos e ambiente
+- Organização de produtos e do espaço
 - Apresentação e demonstração de instrumentos musicais
-- Venda de produtos e negociação
-- Auxílio na otimização de vendas
+- Vendas e negociação
+- Ajuda na melhoria dos processos de venda
 
 ---
 
-### 🌐 Idiomas
+### Idiomas
 
 | Idioma | Nível |
 |--------|-------|
@@ -60,56 +60,52 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no CEUB, com interesse e
 
 ---
 
-## 🚀 Projetos Acadêmicos e Profissionais
+## Projetos
 
-### Projeto 1 — Desenvolvimento de site e organização de empresa de pescas
+### Projeto 1 — Site e organização de empresa de pesca
 
-Criação de site e melhorias na organização e vendas da empresa, aplicando conhecimentos de tecnologia adquiridos durante o curso.
-
----
-
-### Projeto 2 — Criação de site da loja Instrumental e Tal
-
-Desenvolvimento de site com informações da loja, organização de conteúdo e foco em facilitar a navegação e aumentar as vendas.
+Criei um site e ajudei na organização da empresa, usando o que aprendi no curso para melhorar as vendas e o funcionamento do negócio.
 
 ---
 
-### Projeto 3 — Desenvolvimento de agente de Inteligência Artificial
+### Projeto 2 — Site da loja Instrumental e Tal
 
-Criação de um agente de IA capaz de executar tarefas específicas, com foco em automação e melhoria de processos.
-
----
-
-## 🛠️ Habilidades e Competências
-
-### Habilidades Interpessoais
-- ✅ Boa comunicação
-- ✅ Relacionamento com pessoas
-- ✅ Proatividade
-- ✅ Organização
-- ✅ Apresentação
-
-### Habilidades Comerciais
-- ✅ Vendas e negociação
-- ✅ Atendimento ao cliente
-- ✅ Noções de otimização de vendas
-
-### Habilidades Técnicas
-- ✅ Facilidade para aprender tecnologia
-- ✅ Noções de criação de sites
-- ✅ Uso básico de Word
+Desenvolvi um site para a loja onde trabalho, com informações dos produtos e foco em facilitar a navegação para os clientes.
 
 ---
 
-## 🏅 Recomendações e Testemunhos
+### Projeto 3 — Agente de Inteligência Artificial
 
-> Atualmente, não possuo recomendações formais registradas. Estou em constante desenvolvimento acadêmico e profissional, buscando melhorar minhas habilidades e construir uma trajetória sólida na área de tecnologia.
+Criei um agente de IA para executar tarefas específicas, com o objetivo de automatizar algumas etapas e facilitar processos.
 
 ---
 
-<div align="center">
+## Habilidades
 
-📬 Entre em contato: **maxsfigueiredo@gmail.com**  
+### Interpessoais
+- Boa comunicação
+- Facilidade em lidar com pessoas
+- Proatividade
+- Organização
+- Apresentação
+
+### Comerciais
+- Vendas e negociação
+- Atendimento ao cliente
+- Noções de otimização de vendas
+
+### Técnicas
+- Facilidade para aprender tecnologia
+- Noções de criação de sites
+- Uso básico de Word
+
+---
+
+## Recomendações
+
+Ainda não tenho recomendações formais registradas. Estou no início da minha trajetória e quero construir isso com o tempo, conforme for crescendo na área.
+
+---
+
+📬 Contato: maxsfigueiredo@gmail.com  
 🎓 CEUB — Análise e Desenvolvimento de Sistemas
-
-</div>
